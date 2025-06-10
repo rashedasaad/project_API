@@ -1,0 +1,12 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using project_API.Model;
+global using project_API.Repositories.Interface;
+global using System.Threading.Tasks;
+global using project_API.view_models;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using project_API.data;
+global using Microsoft.AspNetCore.Http.HttpResults;
+global using System.Xml;
